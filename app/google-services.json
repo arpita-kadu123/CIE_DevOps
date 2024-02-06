@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504413156003",
+    "project_id": "hotelbooking-master",
+    "storage_bucket": "hotelbooking-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504413156003:android:97dc1b37183c4380684516",
+        "android_client_info": {
+          "package_name": "com.example.myhotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyJpkqh-XfhCONZOxLZ9iDue5Bbx5QeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
